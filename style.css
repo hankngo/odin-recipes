@@ -6,3 +6,16 @@ body {
   background-color: beige;
 }
 
+h1 {
+  color: rgb(145, 135, 42);
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
+
+.sushi-img {
+  width: 358px;
+  height: auto;
+}

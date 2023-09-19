@@ -19,3 +19,35 @@ img {
   width: 358px;
   height: auto;
 }
+
+h3 {
+  color: rgb(171, 160, 60);
+}
+
+.steps-list {
+  color: rgb(196, 183, 71);
+}
+
+.steps-list p {
+  color: black;
+}
+
+.steps-list a {
+  color: darkcyan;
+}
+
+h3 em {
+  color: darkolivegreen;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.source {
+  color: darkblue;
+}
+
+.main-link {
+  font-size: 30px;
+  text-align: center;
+  color: rgb(204, 184, 11);
+}

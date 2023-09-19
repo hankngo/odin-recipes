@@ -32,8 +32,9 @@ h3 {
   color: black;
 }
 
-.steps-list a {
+.steps-list .tut-links {
   color: darkcyan;
+  font-weight: 800;
 }
 
 h3 em {

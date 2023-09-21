@@ -15,14 +15,12 @@ body {
 }
 
 .container{
-  /* border: 4px dotted blue; */
   padding: 30px;
   font-size: 18px;
 }
 
 .items {
   display: inline-block;
-  /* border: 3px solid red; */
 }
 
 .top-container {
@@ -75,7 +73,7 @@ a img:hover {
 .recipe-container {
   background-color: rgb(234, 234, 213);
   margin: auto;
-  width: fit-content;
+  width: 800px;
   border-radius: 20px;
 }
 .food-title {

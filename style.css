@@ -17,7 +17,7 @@ body {
 .container{
   /* border: 4px dotted blue; */
   padding: 30px;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 .items {
@@ -41,11 +41,13 @@ body {
 }
 
 .text-logo {
-  color: rgb(145, 135, 42);  
+  color: rgb(145, 135, 42);
+  font-size: 20px;  
   border: 2px solid goldenrod;
   border-radius: 20px;
+  width: 100px;
   padding: 30px;
-  margin: auto 280px;
+  margin: auto;
 }
 
 img {
@@ -58,17 +60,21 @@ img {
   height: auto;
 }
 
+.nav-list-links img{
+  height: 200px;
+  width: auto;
+}
+
 a img:hover {
   filter: brightness(80%);
 }
 
-/* New updates above */
 
 h3 {
   color: rgb(171, 160, 60);
 }
 
-.nav-list-links, .steps-list {
+.steps-list {
   color: rgb(196, 183, 71);
 }
 

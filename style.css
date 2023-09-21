@@ -35,8 +35,11 @@ body {
   text-align: center;
 }
 
-.title {
+.title, .food-section {
   color: rgb(171, 160, 60);
+}
+
+.title {
   font-weight: 10px;
 }
 
@@ -69,9 +72,15 @@ a img:hover {
   filter: brightness(80%);
 }
 
-
-h3 {
-  color: rgb(171, 160, 60);
+.recipe-container {
+  background-color: rgb(234, 234, 213);
+  margin: auto;
+  width: fit-content;
+  border-radius: 20px;
+}
+.food-title {
+  text-align: center;
+  color: rgb(138, 131, 66);
 }
 
 .steps-list {
